@@ -1,1 +1,1 @@
-Exemplo básico e simples de da diferença entre usar um operador lógico (boolean) para um operador ternário 
+Exemplo básico e simples da diferença entre usar um operador lógico (boolean) para um operador ternário 
